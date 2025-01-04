@@ -1,0 +1,80 @@
+@charset "iso-8859-1";
+/* CSS Document */
+
+@media screen and (max-width: 1279px) {
+	#indicator{
+		background-color:#F90;  /*Oranje*/
+	}
+
+}/*Oranje*/
+
+@media screen and (max-width: 1150px) {/* kantelpunt IPad liggend opt einde*/
+	#indicator{
+		background-color:#00C;  /*blauw*/
+	}
+
+}/*blauw*/
+
+
+@media screen and (max-width: 1023px) {
+	#indicator{
+		background-color:#660;  /*kakkie*/
+	}
+	
+}/*kakkie*/
+
+@media screen and (max-width: 920px) {/* Ipad staand opt einde afwijkend*/
+	#indicator{
+		background-color:#999; /*Grijs*/
+	}
+	
+	.centerContainer{
+		width:600px;
+	}
+	
+	.zoneCont{
+		margin-bottom:20px;	
+	}
+
+}/*Grijs*/
+
+
+@media screen and (max-width: 767px) {  /* geen device*/
+	#indicator{
+		background-color:#FF9;  /*yellow*/
+	}
+	
+}/*yellow*/
+
+@media screen and (max-width: 620px) {  /* geen device*/
+	#indicator{
+		background-color:#F0C  /*roze*/
+	}
+	
+	.centerContainer{
+		width:300px;
+	}
+}/*roze*/
+
+@media screen and (max-width: 600px) {/*I Phone liggend opt einde*/
+	#indicator{
+		background-color:#C3F;  /*purple */
+	}
+	
+	
+}/*purple */
+
+
+@media screen and (max-width: 479px) {
+
+	#indicator{
+		background-color:#F90;  /*orange *//*I Phone staand*/
+	}
+	
+}/*orange */
+
+@media screen and (max-width: 319px) {
+	#indicator{
+		background-color:#600;  /*brown */
+	}	
+}
