@@ -1,9 +1,9 @@
-# Niko Homecontrol Webapp
+# Niko Homecontrol PHP based Webapp
 
 ![image](https://github.com/user-attachments/assets/ce3869ac-2457-4e99-a211-875609661581)
 
 ## Intro
-Mobile compatible web app to control your Niko Homecontrol 1 installation via a web browser. This can be usefull if you want to be able to reach your installation over the internet, without the expensive gateway module.
+Mobile compatible web app written in PHP/JS to control your Niko Homecontrol 1 installation via a web browser. This can be usefull if you want to be able to reach your installation over the internet, without the expensive gateway module.
 
 ## Installation
 - Extract the repo to your webserver
